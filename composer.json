@@ -1,0 +1,26 @@
+{
+    "name": "octopyid/collections",
+    "description": "The Octopy Collection Package",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "SupianIDz",
+            "email": "supianidz@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^8.0",
+        "illuminate/collections": "^8.17"
+    },
+    "autoload": {
+        "psr-4": {
+            "Octopy\\Support\\": "src/"
+        }
+    },
+    "prefer-stable": true,
+    "minimum-stability": "dev",
+    "config": {
+        "sort-packages": true
+    }
+}
