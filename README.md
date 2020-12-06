@@ -9,7 +9,7 @@ For now we need the class below without any base code changes just a separate na
 ## Installation
 
 ```
-composer require octopyid/support
+composer require octopyid/collections
 ```
 
 ## Credits
